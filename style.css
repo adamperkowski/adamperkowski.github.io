@@ -9,6 +9,7 @@ h2 { color: #cdd6f4; font-family: 'Monospace'; }
 h3 { color: #bac2de; font-family: 'Monospace'; }
 a { color: #89b4fa; }
 a:visited { color: #cba6f7; }
+iframe { border: none; }
 
 footer {
     position: fixed;

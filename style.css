@@ -7,8 +7,8 @@ p { color: #a6adc8; font-family: 'Noto Sans'; font-size: 20px; }
 h1 { color: #cdd6f4; font-family: "Monospace"; }
 h2 { color: #cdd6f4; font-family: 'Monospace'; }
 h3 { color: #bac2de; font-family: 'Monospace'; }
-a { color: #89b4fa; }
-a:visited { color: #cba6f7; }
+a { color: #f38ba8; }
+a:visited { color: #eba0ac; }
 iframe { border: none; }
 
 footer {

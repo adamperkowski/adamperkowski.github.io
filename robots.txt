@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /LICENSE
+Disallow: /README.md

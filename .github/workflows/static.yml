@@ -4,7 +4,7 @@ name: Deploy static content to Pages
 on:
   # Runs on pushes targeting the default branch
   push:
-    paths: [ "**.html", "**.css", "**.js" ]
+    paths: [ "index.html", "**.css", "**.js", "donate/**", "img/**", "**.xml", "robots.txt" ]
     branches:
       - main
 
@@ -43,3 +43,9 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+      - uses: anishathalye/proof-html@v2
+        with:
+          directory: ./
+          enforce_https: true
+          tokens: |
+            {"https://github.com": "${{ secrets.GITHUB_TOKEN }}"}

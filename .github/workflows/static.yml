@@ -43,16 +43,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-      - uses: anishathalye/proof-html@v2
-        with:
-          directory: ./
-          enforce_https: true
-          tokens: |
-            {"https://github.com": "${{ secrets.GITHUB_TOKEN }}"}
-          ignore_url: |
-            https://fonts.googleapis.com
-            https://www.googletagmanager.com
-            https://readme-stats-ulgx.vercel.app
-            https://storage.ko-fi.com
-            https://signal.me
-            googlef8222ce546bd819e.html

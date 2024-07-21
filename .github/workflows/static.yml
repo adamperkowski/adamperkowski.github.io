@@ -43,9 +43,9 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-      - uses: anishathalye/proof-html@v2
-        with:
-          directory: ./
-          enforce_https: true
-          tokens: |
-            {"https://github.com": "${{ secrets.GITHUB_TOKEN }}"}
+      # - uses: anishathalye/proof-html@v2
+      #   with:
+      #     directory: ./
+      #     enforce_https: true
+      #     tokens: |
+      #       {"https://github.com": "${{ secrets.GITHUB_TOKEN }}"}

@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /LICENSE
 Disallow: /README.md
+Disallow: /donate/pc-build.html

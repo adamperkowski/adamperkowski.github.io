@@ -12,4 +12,8 @@
     <loc>https://adamperkowski.github.io/privacy/</loc>
     <priority>0.01</priority>
   </url>
+  <url>
+    <loc>https://adamperkowski.github.io/donate/pc-build.html</loc>
+    <priority>0.01</priority>
+  </url>
 </urlset>

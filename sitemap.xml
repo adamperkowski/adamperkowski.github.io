@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://adamperkowski.github.io/</loc>
+    <loc>https://adamperkowski.dev/</loc>
     <priority>1.00</priority>
   </url>
   <url>
-    <loc>https://adamperkowski.github.io/donate/</loc>
+    <loc>https://adamperkowski.dev/donate/</loc>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://adamperkowski.github.io/privacy/</loc>
+    <loc>https://adamperkowski.dev/privacy/</loc>
     <priority>0.01</priority>
   </url>
   <url>
-    <loc>https://adamperkowski.github.io/donate/pc-build.html</loc>
+    <loc>https://adamperkowski.dev/pc-build.html</loc>
     <priority>0.01</priority>
   </url>
 </urlset>

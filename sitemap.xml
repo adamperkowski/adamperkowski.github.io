@@ -16,4 +16,8 @@
     <loc>https://adamperkowski.dev/pc-build.html</loc>
     <priority>0.01</priority>
   </url>
+  <url>
+    <loc>https://funny.adamperkowski.dev/
+    <priority>0.00</priority>
+  </url>
 </urlset>

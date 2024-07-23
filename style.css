@@ -1,12 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mono');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans');
+
 body {
    background-color: #1e1e2e;
    text-align: center; 
 }
 
 p { color: #a6adc8; font-family: 'Noto Sans'; font-size: 20px; }
-h1 { color: #cdd6f4; font-family: "Monospace"; }
-h2 { color: #cdd6f4; font-family: 'Monospace'; }
-h3 { color: #bac2de; font-family: 'Monospace'; }
+h1 { color: #cdd6f4; font-family: 'Noto Sans Mono'; }
+h2 { color: #cdd6f4; font-family: 'Noto Sans Mono'; }
+h3 { color: #bac2de; font-family: 'Noto Sans Mono'; }
 a { color: #f38ba8; }
 a:visited { color: #eba0ac; }
 iframe { border: none; }

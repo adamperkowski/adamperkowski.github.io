@@ -15,7 +15,7 @@ Chętnie podejmę się współpracy przy jakimś ciekawym projekcie. (kocham Rus
 # Statystyki
 
 - WakaTime: <a href="https://wakatime.com/@adamperkowski" target="_blank">{{< wakatime_stats >}}</a>
-- GitHub Followers:
+- GitHub Followers: {{< github_stats >}}
 - GitHub Stars: 
 - GitHub Sponsors:
 

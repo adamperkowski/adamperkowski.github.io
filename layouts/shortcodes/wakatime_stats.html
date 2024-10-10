@@ -1,22 +1,9 @@
-<div id="wakatime-stats"></div>
+{{ $url := "https://wakatime.com/share/@adamperkowski/8308c299-2795-4762-9c92-e05e6fb6a773.json" }}
+{{ $response := resources.GetRemote $url }}
+{{ $data := $response | transform.Unmarshal }}
 
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-
-<script>
-  (function() {
-    $.ajax({
-      type: 'GET',
-      url: 'https://wakatime.com/share/@adamperkowski/8308c299-2795-4762-9c92-e05e6fb6a773.json',
-      dataType: 'jsonp',
-      success: function(response) {
-        var total = response.data.grand_total.human_readable_total_including_other_language;
-
-        document.getElementById('wakatime-stats').innerHTML = total;
-      },
-      error: function(xhr, status, error) {
-        console.error('AJAX Error:', status, error);
-        document.getElementById('wakatime-stats').innerHTML = 'Error loading data';
-      }
-    });
-  })();
-</script>
+{{ if $response }}
+  {{ $data.data.grand_total.human_readable_total_including_other_language }}
+{{ else }}
+  Error loading data.
+{{ end }}

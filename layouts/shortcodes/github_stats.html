@@ -1,0 +1,9 @@
+{{ $url := printf "https://api.github.com/users/adamperkowski" }}
+{{ $response := resources.GetRemote $url }}
+{{ $data := $response | transform.Unmarshal }}
+
+{{ if $response }}
+  {{ $data.followers }}
+{{ else }}
+  Error loading data.
+{{ end }}

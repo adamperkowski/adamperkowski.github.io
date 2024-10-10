@@ -1,0 +1,81 @@
+baseURL = 'https://adamperkowski.dev/'
+languageCode = 'en-us'
+theme = 'terminal'
+title = "Adam Perkowski"
+subtitle = "Just a random developer"
+keywords = ""
+
+[pagination]
+pager_size = 5
+
+[markup.goldmark.renderer]
+unsafe = true
+
+
+[params]
+contentTypeName = "posts"
+showMenuItems = 2
+showLanguageSelector = true
+autoCover = true
+showLastUpdated = false
+wakatime = "This is a string from the config file."
+
+[params.logo]
+logoText = "hello world"
+logoHomeLink = "/"
+
+
+[languages]
+
+[languages.en]
+languageName = "English"
+
+[languages.en.params]
+menuMore = "Show more"
+readMore = "Read more"
+readOtherPosts = "Other posts"
+newerPosts = "Newer posts"
+olderPosts = "Older posts"
+missingContentMessage = "Page not found :o"
+missingBackButtonLabel = "Homepage"
+
+[languages.en.menu]
+
+[[languages.en.menu.main]]
+identifier = "about"
+name = "About"
+url = "/about"
+weight = 1
+
+[[languages.en.menu.main]]
+identifier = "donate"
+name = "Donate"
+url = "/donate"
+weight = 2
+
+
+[languages.pl]
+languageName = "Polski"
+
+[languages.pl.params]
+menuMore = "Pokaż więcej"
+readMore = "Czytaj dalej"
+readOtherPosts = "Inne posty"
+newerPosts = "Nowsze posty"
+olderPosts = "Starsze posty"
+missingContentMessage = "Strona nie znaleziona :o"
+missingBackButtonLabel = "Strona główna"
+
+[languages.pl.menu]
+
+[[languages.pl.menu.main]]
+identifier = "about"
+name = "O mnie"
+url = "/pl/about"
+weight = 1
+
+[[languages.pl.menu.main]]
+identifier = "donate"
+name = "Przekaż darowiznę"
+url = "/donate"
+weight = 2

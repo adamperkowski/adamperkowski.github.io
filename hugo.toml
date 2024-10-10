@@ -18,6 +18,7 @@ showMenuItems = 2
 showLanguageSelector = true
 autoCover = true
 showLastUpdated = false
+centerTheme = true
 wakatime = "This is a string from the config file."
 
 [params.logo]
@@ -77,5 +78,5 @@ weight = 1
 [[languages.pl.menu.main]]
 identifier = "donate"
 name = "Przekaż darowiznę"
-url = "/donate"
+url = "/pl/donate"
 weight = 2

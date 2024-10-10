@@ -9,5 +9,5 @@ description = ''
 draft = true
 showFullContent = false
 hideComments = false
-robotsdisallow: false
+robotsdisallow = false
 +++

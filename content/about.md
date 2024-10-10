@@ -36,4 +36,4 @@ Discord: <a href="https://discord.com/users/1101820235566305290" target="_blank"
 
 <a href="/donate" target="_blank">Donate</a>
 
-<a href="/tormirror.txt" target="_blank">Tor mirror of this website</a> (might not be up 24/7)
+[Tor mirror of this website](/tormirror) (might not be up 24/7)

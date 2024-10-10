@@ -14,9 +14,9 @@ Looking to collaborate on any fun project. (i love Rust btw)
 # Stats
 
 - WakaTime: <a href="https://wakatime.com/@adamperkowski" target="_blank">{{< wakatime_stats >}}</a>
-- GitHub Followers: {{< github_stats >}}
-- GitHub Stars: 
-- GitHub Sponsors:
+- GitHub Followers: {{< github_stats type="followers" >}}
+- GitHub Repos: {{< github_stats type="repos" >}}
+- GitHub Sponsors: {{< github_stats type="sponsors" >}}
 
 # Links
 

@@ -1,9 +1,16 @@
+{{ $type := .Get "type" }}
 {{ $url := printf "https://api.github.com/users/adamperkowski" }}
 {{ $response := resources.GetRemote $url }}
 {{ $data := $response | transform.Unmarshal }}
 
 {{ if $response }}
-  {{ $data.followers }}
+  {{ if eq $type "followers" }}
+    <a href="{{ $data.html_url }}?tab=followers" target="_blank">{{ $data.followers }}</a>
+  {{ else if eq $type "repos" }}
+    <a href="{{ $data.html_url }}?tab=repositories" target="_blank">{{ $data.public_repos }}</a>
+  {{ else }}
+    {{ $type }} not found.
+  {{ end }}
 {{ else }}
   Error loading data.
 {{ end }}

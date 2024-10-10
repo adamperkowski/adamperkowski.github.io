@@ -1,0 +1,8 @@
+User-agent: *
+Allow /
+Disallow: /privacy
+Disallow: /pl/privacy
+
+{{ range where .Data.Pages "Params.robotsdisallow" true }}
+Disallow: {{ .RelPermalink }}
+{{ end }}

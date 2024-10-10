@@ -4,6 +4,7 @@ theme = 'terminal'
 title = "Adam Perkowski"
 subtitle = "Just a random developer"
 keywords = ""
+enableRobotsTXT = "true"
 
 [pagination]
 pager_size = 5

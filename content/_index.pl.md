@@ -25,4 +25,4 @@ Discord :: <a href="https://discord.com/users/1101820235566305290" target="_blan
 <br>
 `5A53 0832 DA91 20B0 CA57  DDB6 7CBD B58E CF1D 3478`
 
-<div align="center"><a href="/about">See more</a></div>
+<div align="center"><a href="/about">Zobacz więcej</a></div>

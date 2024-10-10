@@ -2,6 +2,7 @@
 title = 'Donate'
 date = '2024-10-10'
 author = 'Adam Perkowski'
+hideComments = true
 +++
 
 If you want to support the work I do, feel free to donate through any of the following:

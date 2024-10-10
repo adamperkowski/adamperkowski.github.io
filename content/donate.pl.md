@@ -2,6 +2,7 @@
 title = 'Przekaż darowiznę'
 date = '2024-10-10'
 author = 'Adam Perkowski'
+hideComments = true
 +++
 
 Jeśli chcesz wesprzeć moją pracę, możesz przekazać darowiznę za pomocą poniższych metod:

@@ -36,4 +36,5 @@ Discord: <a href="https://discord.com/users/1101820235566305290" target="_blank"
 
 <a href="/donate" target="_blank">Przekaż darowiznę</a>
 
-[Mirror tej strony w sieci Tor](/tormirror) (może nie być dostępny 24/7)
+<a href="https://github.com/adamperkowski/adamperkowski.github.io" target="_blank">Kod źródłowy</a><br>
+[Mirror w sieci Tor](/tormirror) (może nie być dostępny 24/7)

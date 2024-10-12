@@ -11,7 +11,7 @@ Poprzez używanie tej strony, zgadzasz się na zbieranie i użytek informacji zd
 
 # Zbieranie i Użytek Informacji
 
-Ta Strona nie zbiera żadnych danych osobystich oraz nie posiada żadnych elementów śledzących czy ciasteczek („cookies”). Prywatność jest ważna, dlatego nie biorę udziału w żadnej formie śledzenia lub zbierania danych. Źródło tej Strony (włącznie z tą polityką) jest dostępne na https://github.com/adamperkowski/adamperkowski.github.io.
+Ta Strona nie zbiera żadnych danych osobowych oraz nie posiada żadnych elementów śledzących czy ciasteczek („cookies”). Prywatność jest ważna, dlatego nie biorę udziału w żadnej formie śledzenia lub zbierania danych. Źródło tej Strony (włącznie z tą polityką) jest dostępne na https://github.com/adamperkowski/adamperkowski.github.io.
 
 ## Dane Log
 

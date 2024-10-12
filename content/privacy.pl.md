@@ -7,7 +7,7 @@ hideComments = true
 
 Ta strona internetowa jest doestępna w https://adamperkowski.dev i https://adamperkowski.github.io („Strona”). Utrzymywana przez Adama Perkowskiego („ja”).
 
-Poprzez urzywanie tej strony, zgadzasz się na zbieranie i użytek informacji zdefiniowanych w tym dokumencie. Zbierane dane osobowe są używanie TYLKO I WYŁĄCZNIE w celu ulepszeniu tej Strony. Nie używam lub udostępniam twoich danych nikomu poza serwisami zdefiniowanymi poniżej.
+Poprzez używanie tej strony, zgadzasz się na zbieranie i użytek informacji zdefiniowanych w tym dokumencie. Zbierane dane osobowe są używanie TYLKO I WYŁĄCZNIE w celu ulepszeniu tej Strony. Nie używam lub udostępniam twoich danych nikomu poza serwisami zdefiniowanymi poniżej.
 
 # Zbieranie i Użytek Informacji
 

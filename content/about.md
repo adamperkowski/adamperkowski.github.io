@@ -34,7 +34,7 @@ Discord: <a href="https://discord.com/users/1101820235566305290" target="_blank"
 <a href="https://raw.githubusercontent.com/adamperkowski/adamperkowski/main/rsa_pub_key" target="_blank">RSA Public Key</a> (git; sign-only)<br>
 `5A53 0832 DA91 20B0 CA57  DDB6 7CBD B58E CF1D 3478`
 
-<a href="/donate" target="_blank">Donate</a>
+[Donate](/donate)
 
 <a href="https://github.com/adamperkowski/adamperkowski.github.io" target="_blank">Source code</a><br>
 [Tor mirror](/tormirror) (might not be up 24/7)

@@ -24,7 +24,6 @@ wakatime = "This is a string from the config file."
 
 [params.logo]
 logoText = "hello world"
-logoHomeLink = "/"
 
 
 [languages]
@@ -40,6 +39,9 @@ newerPosts = "Newer posts"
 olderPosts = "Older posts"
 missingContentMessage = "Page not found :o"
 missingBackButtonLabel = "Homepage"
+
+[languages.en.params.logo]
+logoHomeLink = "/"
 
 [languages.en.menu]
 
@@ -79,6 +81,9 @@ newerPosts = "Nowsze posty"
 olderPosts = "Starsze posty"
 missingContentMessage = "Strona nie znaleziona :o"
 missingBackButtonLabel = "Strona główna"
+
+[languages.pl.params.logo]
+logoHomeLink = "/pl"
 
 [languages.pl.menu]
 

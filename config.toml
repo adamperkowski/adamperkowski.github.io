@@ -6,6 +6,10 @@ subtitle = "Just a random developer"
 keywords = ""
 enableRobotsTXT = "true"
 
+[sitemap]
+changefreq = "weekly"
+priority = 0.5
+
 [pagination]
 pager_size = 5
 

@@ -1,5 +1,6 @@
 +++
 title = 'O mnie'
+description = 'Coś o mnie.'
 date = '2024-10-10'
 author = 'Adam Perkowski'
 hideComments = true

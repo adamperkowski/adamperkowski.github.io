@@ -1,11 +1,11 @@
 +++
 title = '{{ replace .File.ContentBaseName "-" " " | title }}'
+description = ''
 date = {{ .Date }}
 author = 'Adam Perkowski'
 cover = ''
 tags = ['', '']
 keywords = ['', '']
-description = ''
 draft = true
 showFullContent = false
 hideComments = false

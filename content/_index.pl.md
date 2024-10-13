@@ -8,7 +8,7 @@ hideComments = true
 
 Nazywam się Adam. Adam Perkowski.
 
-Pracuję w Rust, C, C++, Python, HTML, JavaScript i x86_64 Assembly.<br>
+Jestem doświadczonym programistą / developerem.<br>
 Chętnie podejmę się współpracy przy jakimś ciekawym projekcie. (kocham Rust btw)
 
 WakaTime: <a href="https://wakatime.com/@adamperkowski" target="_blank">{{< wakatime_stats >}}</a>

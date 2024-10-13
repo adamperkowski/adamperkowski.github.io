@@ -3,7 +3,7 @@ languageCode = 'en-us'
 theme = 'terminal'
 title = "Adam Perkowski"
 subtitle = "Just a random developer"
-keywords = ""
+keywords = ['adam', 'perkowski', 'github', 'rust', 'programming', 'developement', 'programmer', 'developer', 'highlightos']
 enableRobotsTXT = "true"
 
 [sitemap]

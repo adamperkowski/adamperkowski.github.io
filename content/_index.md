@@ -8,7 +8,7 @@ hideComments = true
 
 My name is Adam. Adam Perkowski.
 
-I work in Rust, C, C++, Python, HTML, JavaScript and x86_64 Assembly.<br>
+I'm an experienced programmer / developer.<br>
 Looking to collaborate on any fun project. (i love Rust btw)
 
 WakaTime: <a href="https://wakatime.com/@adamperkowski" target="_blank">{{< wakatime_stats >}}</a>

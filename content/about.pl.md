@@ -23,10 +23,12 @@ Chętnie podejmę się współpracy przy jakimś ciekawym projekcie. (kocham Rus
 
 <a href="mailto:adas1per@protonmail.com" target="_blank">adas1per@protonmail.com</a>
 
+<a href="https://twitch.tv/adamperkowski" target="_blank">Twitch</a>
+
 <a href="https://os.adamperkowski.dev" target="_blank">HighlightOS</a>
 to 64bit system operacyjny (kernel) stworzony od zera w Assembly i Rust.
 
-<a href="https://github.com/adamperkowski" target="_blank">GitHub</a> :: <a href="https://floss.social/@xx0a_q" target="_blank">Mastodon</a> :: <a href="https://signal.me/#eu/soGztmBh8pJ75fu3ZRkOUc-Zp4bH0BLEaHy_lxWc7Ijs_TBtUitOKbDwMxRJp-Be" target="_blank">Signal</a><br>
+<a href="https://github.com/adamperkowski" target="_blank">GitHub</a> :: <a href="https://twitch.tv/adamperkowski" target="_blank">Twitch</a> :: <a href="https://floss.social/@xx0a_q" target="_blank">Mastodon</a><br>
 Discord: <a href="https://discord.com/users/1101820235566305290" target="_blank">@x.eqo</a>
 
 <a href="https://raw.githubusercontent.com/adamperkowski/adamperkowski/main/ecc_pub_key" target="_blank">ECC Public Key</a><br>

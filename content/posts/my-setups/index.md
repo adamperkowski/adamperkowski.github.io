@@ -24,7 +24,7 @@ I patched the window manager exactly how I like it, with the exact functionality
 I even made advanced installation and update scripts that are fully automated and work flawlessly.
 
 Here are some previews (sorry for the quality):
-{{< video_embed url="dwm.mp4" auto=true >}}
+{{< video_embed url="/posts/my-setups/dwm.mp4" auto=true >}}
 <!-- ![DWM preview](https://raw.githubusercontent.com/adamperkowski/dwm/refs/heads/dwm/preview.png) -->
 ![Installation preview](https://raw.githubusercontent.com/adamperkowski/dwm/refs/heads/dwm/install_preview.gif)
 

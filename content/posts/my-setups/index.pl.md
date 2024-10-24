@@ -24,7 +24,7 @@ Zpatchowałem window managera dokładnie tak jak chciałem, z dokładnie tymi fu
 Zrobiłęm nawet zaawansowane skrypty instalujące i aktualizujące cały rice. Są one w pełni zautomatyzowane.
 
 Screenshoty i tak dalej (sorry za jakość):
-{{< video_embed url="dwm.mp4" auto=true >}}
+{{< video_embed url="/posts/my-setups/dwm.mp4" auto=true >}}
 <!-- ![DWM preview](https://raw.githubusercontent.com/adamperkowski/dwm/refs/heads/dwm/preview.png) -->
 ![Installation preview](https://raw.githubusercontent.com/adamperkowski/dwm/refs/heads/dwm/install_preview.gif)
 

@@ -1,0 +1,14 @@
+{{ $url := .Get "url" }}
+{{ $auto := .Get "auto" }}
+
+{{ if eq $auto true }}
+  <video width=100% controls autoplay>
+    <source src={{ $url }} type="video/mp4">
+    There's supposed to be a video here...
+  </video>
+{{ else }}
+  <video width=100% controls>
+    <source src={{ $url }} type="video/mp4">
+    There's supposed to be a video here...
+  </video>
+{{ end }}

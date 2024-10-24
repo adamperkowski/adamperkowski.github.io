@@ -1,0 +1,10 @@
+[default]
+extend-ignore-identifiers-re = [
+    "ND"
+]
+
+[files]
+extend-exclude = [
+    "themes/*",
+    "*pl*"
+]

@@ -29,7 +29,7 @@ and other libraries from <a href="https://github.com/rust-osdev" target="_blank"
 ![Commits Activity on GitHub](highlightos_commits_oct.png)
 
 ### Q1 of 2024
-Originaly, HighlightOS was supposed to be an Assembly-based kernel with a bundled bootloader (+ some C additions) but I gave up on
+Originally, HighlightOS was supposed to be an Assembly-based kernel with a bundled bootloader (+ some C additions) but I gave up on
 this idea when it came to string comparison that's essential for a shell to work.<br>
 I quickly gave up on the project, I had more important stuff to do at the time.
 

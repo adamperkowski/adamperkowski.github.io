@@ -25,7 +25,7 @@ I even made advanced installation and update scripts that are fully automated an
 
 Here are some previews (sorry for the quality):
 {{< video_embed url="dwm.mp4" auto=true >}}
-![DWM preview](https://raw.githubusercontent.com/adamperkowski/dwm/refs/heads/dwm/preview.png)
+<!-- ![DWM preview](https://raw.githubusercontent.com/adamperkowski/dwm/refs/heads/dwm/preview.png) -->
 ![Installation preview](https://raw.githubusercontent.com/adamperkowski/dwm/refs/heads/dwm/install_preview.gif)
 
 And of course, everything's available in a [GitHub Repo](https://github.com/adamperkowski/dwm).

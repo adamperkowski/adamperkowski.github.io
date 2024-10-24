@@ -25,7 +25,7 @@ Zrobiłęm nawet zaawansowane skrypty instalujące i aktualizujące cały rice. 
 
 Screenshoty i tak dalej (sorry za jakość):
 {{< video_embed url="dwm.mp4" auto=true >}}
-![DWM preview](https://raw.githubusercontent.com/adamperkowski/dwm/refs/heads/dwm/preview.png)
+<!-- ![DWM preview](https://raw.githubusercontent.com/adamperkowski/dwm/refs/heads/dwm/preview.png) -->
 ![Installation preview](https://raw.githubusercontent.com/adamperkowski/dwm/refs/heads/dwm/install_preview.gif)
 
 Oczywiście, wszystko jest dostępne w [Repozytorium GitHub](https://github.com/adamperkowski/dwm).
